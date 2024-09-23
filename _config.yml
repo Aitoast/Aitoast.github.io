@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Seok Hyeoun Jung"
-  avatar           : "/assets/images/pngwing.com.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pngwing.com.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "공부하는 사람"
   location         : "South_Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "so03892004@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
