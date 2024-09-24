@@ -1,9 +1,9 @@
 AiToast:
   name             : "Seok Hyeoun Jung"
   avatar           : "/assets/images/pngwing.com.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부하는 사람"
+  bio              : "AI 굽는 토스트기계"
   location         : "South_Korea"
-  email            :
+  email            : "so03892004@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
