@@ -22,6 +22,9 @@ docs:
 counts:
     - title: "Category"
       use: true
+      children:
+        - title: "Machine Learning"
+          url: /Machine Learning/ 
     - title: "태그"
       use: false
 
